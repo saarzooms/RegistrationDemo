@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RegistrationDemo</string>
+    <string name="login_activity">Login</string>
+    <string name="registration_activity">Registration</string>
+    <string name="fullname">Fullname</string>
+    <string name="email">Email</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="save">Save</string>
+    <string-array name="city_name">
+        <item>Rajkot</item>
+        <item>Ahemdabad</item>
+        <item>Surat</item>
+        <item>Jamnagar</item>
+        <item>Gandhinagar</item>
+    </string-array>
+</resources>
